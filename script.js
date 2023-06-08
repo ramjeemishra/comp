@@ -9,10 +9,10 @@ function sendEmail(){
 
         Email.send({
             Host : "smtp.elasticemail.com",
-            Username : "ramjeemishra23@gmail.com",
-            Password : "EF8FED79EB91EED53BBFC252EA934C0A87AB",
+            Username : "ramjeemishra77coder@gmail.com",
+            Password : "20E1C345F13CCFE379FEB8E670080BCFAA28",
             To : 'ramjeemishra77coder@gmail.com',
-            From : "ramjeemishra23@gmail.com",
+            From : "ramjeemishra77coder@gmail.com",
             Subject : "New contact form enquiry",
             Body : "name:" + name + "<br/> user email:" + email + "<br/> number:" + number + "<br/> message:" + message
 
