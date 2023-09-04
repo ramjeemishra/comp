@@ -1,0 +1,40 @@
+*{
+	box-sizing: border-box;
+	font-family: 'poppins', sans-serif;
+}
+body{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #32cd9c;
+}
+.form{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background: rgba(58, 54, 48, 0.455);
+    border-radius: 25px;
+}
+input, textarea, button{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 122px;
+    margin-bottom: 13px;
+    border: 3px solid cyan;
+    border-radius: 12px;
+}
+button{
+   width: 90px;
+   height: 38px;
+   background: limegreen;
+   font-weight: 600;
+   font-size: 18px;
+}
+h1{
+    text-align: center;
+    color: cornsilk;
+}
