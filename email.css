@@ -33,6 +33,7 @@ button{
    background: limegreen;
    font-weight: 600;
    font-size: 18px;
+   cursor: pointer;
 }
 h1{
     text-align: center;
