@@ -68,6 +68,57 @@ textarea {
 @media (max-width:900px) {
     .form {
         width: 600px;
-        height: 800px
+        height: 800px;
+        margin: 3vh;
     }
+    
+input,
+textarea {
+    font-size: larger;
+    margin-left: 12%;
+    height: 10vh;
+    width: 55vw;
+}
+}
+
+
+
+
+
+
+
+@media (max-width:600px) {
+    .form {
+        width: 600px;
+        height: 800px;
+    }
+    
+input,
+textarea {
+    font-size: larger;
+    margin-left: 12%;
+    height: 10vh;
+    width: 65vw;
+}
+}
+
+
+
+
+
+
+
+@media (max-width:380px) {
+    .form {
+        width: 600px;
+        height: 800px;
+    }
+    
+input,
+textarea {
+    font-size: larger;
+    margin-left: 12%;
+    height: 10vh;
+    width: 65vw;
+}
 }
